@@ -13,7 +13,7 @@
     "@snlab/florence": "0.1.18",
     "@snlab/florence-datacontainer": "0.1.6",
     "api": "0.0.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "d3-scale": "3.2.1",
     "d3node-barchart": "^0.1.1",
     "node-scatterplot": "^1.0.0",
